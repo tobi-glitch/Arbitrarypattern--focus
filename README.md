@@ -2,7 +2,7 @@
 
 In order to get this to work, run init. This can be done with a simple shell command:
 
-``wget https://raw.githubusercontent.com/tobi-glitch/Arbitrarypattern--focus/refs/heads/main/init.lua ``
+``wget run https://raw.githubusercontent.com/tobi-glitch/Arbitrarypattern--focus/refs/heads/main/init.lua ``
 
 (Sorry the files aren't here. You can find them in the inappropriately named messing-with-overlays)
 
